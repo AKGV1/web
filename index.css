@@ -1,0 +1,24 @@
+body {
+margin: auto;
+background-image: url("/home/akg/Downloads/bg.png");
+}
+
+body {
+margin: auto;
+background-image: url("file:///var/www/html/logo.png");
+
+}
+#headerbar {
+background-image: url("logo.png");
+
+
+}
+
+h1 {
+border: 3px solid #00F1F3;
+text-align: center; 
+font-family: Verdena; 
+color: #00F1F3;
+}
+
+
